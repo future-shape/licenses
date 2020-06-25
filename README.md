@@ -1,2 +1,0 @@
-# licenses
-SensFloor Licenses
